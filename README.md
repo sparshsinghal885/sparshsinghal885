@@ -47,7 +47,7 @@
 
 ## 💡 My Digital Playground
 
-Android Development | Web development | Competitive Programming | Open Source Contributions
+Web development | Competitive Programming | Open Source Contributions
 
 ## 📊 The Chronicles of My Digital Realm
 
