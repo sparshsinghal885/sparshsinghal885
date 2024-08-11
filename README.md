@@ -51,7 +51,7 @@
   </a>
 </p>
 
-## 💡 My Digital Playground
+<p> 💡 My Digital Playground<p/>
 
 Web development | Competitive Programming | Open Source Contributions
 
