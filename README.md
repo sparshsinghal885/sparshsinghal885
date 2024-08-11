@@ -1,7 +1,11 @@
-# Hi! I'm Sparsh
+# Hi! 👋 I'm Sparsh
 <br>
-<a href="https://sparshsinghal885.github.io/" >Visit My Website!</a>
+<div >
+  <a href="https://sparshsinghal885.github.io/" >Visit My Website!</a>
 <p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:sparshsinghal885@gmail.com">Click here to fire off an email.</a> 🕊️</p>
+
+<img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
+</div>
 
 - Currently Learning Web Development and DSA.
 - Proficent in JavaScript 💌, C++ 😁.
@@ -10,40 +14,12 @@
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
 - 🧑‍🎨
 
-
-
-
 <!-- <a href="https://sparshsinghal885.github.io">Discover more on my website!</a> -->
 
 ## 🚀 Technical Wizardry
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <a href="https://en.cppreference.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://www.cplusplus.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </a>
-  <a href="https://firebase.google.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  </a>
-  <a href="https://react.dev/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Reactjs-1572B6 ?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  </a>
-  <a href="https://react.dev/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Appwrite-FF0000 ?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
-  </a>
-</div>
+<p align="left"> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </p>
 
 ## 💡 My Digital Playground
 
