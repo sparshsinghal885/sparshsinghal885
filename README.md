@@ -16,7 +16,7 @@
 - Contact me for working together on Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
 
-<h2> 🚀 Technical Wizardry</h2>
+<p style="font-size: 2em; font-weight: bold;"> 🚀 Technical Wizardry</p>
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<p> 💡 My Digital Playground<p/>
+<p style="font-size: 2em; font-weight: bold;"> 💡 My Digital Playground<p/>
 
 Web development | Competitive Programming | Open Source Contributions
 
