@@ -1,19 +1,21 @@
 # Hi! 👋 I'm Sparsh
 
-<div style="display: flex; align-items: center; justify-content: space-between;"><div><a href="https://sparshsinghal885.github.io/">Visit My Website!</a><p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue' Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"> <a href="mailto:sparshsinghal885@gmail.com">Click here to fire off an email.</a> 🕊️
-    </p>
-    <ul>
-      <li>Currently Learning Web Development and DSA.</li>
-      <li>Proficient in JavaScript 💌, C++ 😁.</li>
-      <li>Love Contributing to Open Source 🎔.</li>
-      <li>Contact me for working together on Web Projects. 🫱🏻‍🫲🏼</li>
-      <li>Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻</li>
-    </ul>
-  </div>
-  <div align="right">
-    <img alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
-  </div>
-</div>
+<p >
+  <a href="https://sparshsinghal885.github.io/">Visit My Website!</a>  
+  <br/>
+  <a href="mailto:sparshsinghal885@gmail.com">Click here to fire off an email. 🕊️</a>
+</p>
+
+<p align="left">
+  <img src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif" alt="coding" width="400" align="right" />
+</p>
+
+- Currently Learning Web Development and DSA.
+- Proficient in JavaScript 💌, C++ 😁.
+- Love Contributing to Open Source 🎔.
+- Contact me for working together on Web Projects. 🫱🏻‍🫲🏼
+- Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
+
 <!-- <a href="https://sparshsinghal885.github.io">Discover more on my website!</a> -->
 
 ## 🚀 Technical Wizardry
