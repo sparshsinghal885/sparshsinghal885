@@ -16,7 +16,7 @@
 - Contact me for working together on Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
 
-## 🚀 Technical Wizardry
+<h2> 🚀 Technical Wizardry</h2>
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -55,7 +55,7 @@
 
 Web development | Competitive Programming | Open Source Contributions
 
-## 📊 The Chronicles of My Digital Realm
+<h2> ## 📊 The Chronicles of My Digital Realm</h2>
 
 <p align="center">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshsinghal885&show_icons=true&theme=highcontrast&layout=compact">
