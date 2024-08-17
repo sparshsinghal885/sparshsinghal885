@@ -65,6 +65,8 @@ Web development | Competitive Programming | Open Source Contributions
   <img  src="https://github-readme-stats.vercel.app/api?username=sparshsinghal885&show_icons=true&theme=highcontrast" width="48%">
 </p>
 
+![](https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap)
+
 <p align="center">
   🌟 Explore my awesome repositories below! 👇
 </p>
