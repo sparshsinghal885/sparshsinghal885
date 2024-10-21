@@ -11,7 +11,7 @@
 </p>
 
 - Currently Learning Web Development and DSA.
-- Proficient in JavaScript 💌, C++ 😁.
+- Proficient in JavaScript 💌,JAVA ☕, C++ 😁.
 - Love Contributing to Open Source 🎔.
 - Contact me for working together on Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
