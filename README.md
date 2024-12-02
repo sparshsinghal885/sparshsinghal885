@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Sparsh
-
+![](https://komarev.com/ghpvc/?username=sparshsinghal885&color=dc143c)
 <p>
   <a href="https://sparshsinghal885.github.io/">Visit My Website!</a>  
   <br/>
@@ -15,6 +15,8 @@
 - Love Contributing to Open Source 🎔.
 - Contact me for working together on Web Projects. 🫱🏻‍🫲🏼
 - Dedicated to writing cleaner and more efficient code with every project. 🧑‍💻
+
+
 
 <h3><strong> 🚀 Technical Wizardry<strong/></h3>
 
