@@ -94,17 +94,9 @@
 
 <hr></hr>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
-
-  <!-- Leetcode -->
-  <img src="https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap" height="300" />
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/SPARSH_SINGHAL11">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SPARSH_SINGHAL11" height="300" />
-  </a>
-
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap" />
+</p>
 
 <!--Contact Section--> 
 
