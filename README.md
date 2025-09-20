@@ -94,8 +94,8 @@
 <img src="./twitter.png" width=50 height=50 alt="sparsh_singhal1" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/sparsh.singhal1" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="sparsh.singhal1" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/sparsh.singhal11" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="sparsh.singhal11" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/sparshsinghal885" target="_blank">
