@@ -94,7 +94,10 @@
 
 <hr></hr>
 
-![](https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap)
+<!--Leetcode-->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SPARSH_SINGHAL?ext=heatmap" />
+</p>
 
 <!--Contact Section--> 
 
