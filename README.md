@@ -98,7 +98,7 @@
 <img src="./instagram.png" width=50 height=50 alt="sparsh.singhal11" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/sparshsinghal885" target="_blank">
+<a href="https://github.com/sparshsinghal885" target="_blank">
 <img src="./github.png" width=50 height=50 alt="sparshsinghal885" style="margin-bottom: 5px;" />
 </a>
 
