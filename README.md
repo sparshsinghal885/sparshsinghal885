@@ -4,7 +4,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ꜱᴘᴀʀꜱʜ! 
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Sparsh+!+👋🏻)
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
